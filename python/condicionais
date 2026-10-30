@@ -1,0 +1,8 @@
+posicion=3
+if(posicion==1):
+    print ("eres o campeón")
+else:
+    print ("non eres o campeón")
+
+print ("rematei")
+
